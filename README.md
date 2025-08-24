@@ -24,10 +24,15 @@ The app fetches live weather data from the OpenWeather API, processes JSON respo
 4) Codable for JSON parsing
 5) OpenWeather API
 
+
 📌 Planned Improvements
 
 📍  Location-based weather (auto-detect user location)
+
 🌈  Animated gradient transitions (day ↔ night)
+
 🎞  Weather animations (rain, snow, clouds, sun rays)
+
 💾  Offline caching (last fetched data available without internet)
+
 📱  Custom UI cards for forecast details
