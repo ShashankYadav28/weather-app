@@ -14,7 +14,7 @@ The app fetches live weather data from the OpenWeather API, processes JSON respo
 
 🎨 Clean SwiftUI Interface – Gradient backgrounds, SF Symbols for weather icons, and responsive design.
 
-🏗 MVVM Pattern – Organized code with ViewModel, Model, and View.
+🏗 MVVM – Organized code with ViewModel, Model, and View.
 
 🛠 Tech Stack
 
