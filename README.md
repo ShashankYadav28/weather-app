@@ -17,8 +17,6 @@ The app fetches live weather data from the OpenWeather API, processes JSON respo
 🏗 MVVM – Organized code with ViewModel, Model, and View.
 
 
-
-
 🛠 Tech Stack
 
 | Component          | Details                                    |
@@ -31,9 +29,6 @@ The app fetches live weather data from the OpenWeather API, processes JSON respo
 | API Service        | OpenWeather API (real-time weather data)   |
 | IDE                | Xcode 15+                                  |
 | Version Control    | Git & GitHub                               |
-
-
-
 
 
 
