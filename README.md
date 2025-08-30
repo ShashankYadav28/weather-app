@@ -16,13 +16,22 @@ The app fetches live weather data from the OpenWeather API, processes JSON respo
 
 🏗 MVVM – Organized code with ViewModel, Model, and View.
 
+
+
 🛠 Tech Stack
 
-1) Swift 5 + SwiftUI
-2) MVVM Architecture
-3) URLSession for networking
-4) Codable for JSON parsing
-5) OpenWeather API
+| Component          | Details                                    |
+|--------------------|--------------------------------------------|
+| Language           | Swift 5.9+                                 |
+| UI Framework       | SwiftUI (Declarative UI)                   |
+| Architecture       | MVVM (Model–View–ViewModel)                |
+| Networking         | URLSession (API requests)                  |
+| Data Parsing       | Codable (JSON decoding)                    |
+| API Service        | OpenWeather API (real-time weather data)   |
+| IDE                | Xcode 15+                                  |
+| Version Control    | Git & GitHub                               |
+
+
 
 
 📌 Planned Improvements
